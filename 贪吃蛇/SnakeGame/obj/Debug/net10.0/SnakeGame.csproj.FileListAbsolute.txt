@@ -1,0 +1,14 @@
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\bin\Debug\net10.0\SnakeGame.exe
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\bin\Debug\net10.0\SnakeGame.deps.json
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\bin\Debug\net10.0\SnakeGame.runtimeconfig.json
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\bin\Debug\net10.0\SnakeGame.dll
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\bin\Debug\net10.0\SnakeGame.pdb
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\obj\Debug\net10.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\obj\Debug\net10.0\SnakeGame.AssemblyInfoInputs.cache
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\obj\Debug\net10.0\SnakeGame.AssemblyInfo.cs
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\obj\Debug\net10.0\SnakeGame.csproj.CoreCompileInputs.cache
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\obj\Debug\net10.0\SnakeGame.dll
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\obj\Debug\net10.0\refint\SnakeGame.dll
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\obj\Debug\net10.0\SnakeGame.pdb
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\obj\Debug\net10.0\SnakeGame.genruntimeconfig.cache
+D:\vs编程\代码存放\贪吃蛇\SnakeGame\obj\Debug\net10.0\ref\SnakeGame.dll
